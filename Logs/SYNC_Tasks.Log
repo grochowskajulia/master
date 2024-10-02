@@ -1,0 +1,58 @@
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 27.09.2022 13:00:26
+---------------------------------------------------------------------------------
+
+Total time taken 00:00:00
+
+Exp. Time	Act. Time	Task (17)
+UnKnown		B-Y: Model_DMD
+UnKnown		B-Y: Model_ELC
+UnKnown		B-Y: Model_SUP
+00:00:05		B-Y Transformation...
+UnKnown		SR: NOWE_TECHNOLOGIE
+UnKnown		SR Transformation: NOWE_TECHNOLOGIE
+00:00:06		Transfer Data: [B-Y] + [SR]
+UnKnown		Demand: Dem_Alloc+Series
+UnKnown		Demand: DEM_Ref
+UnKnown		Reg_Scen: AF_SLONCE
+UnKnown		Reg_Scen: CENY_PALIW
+UnKnown		Reg_Scen: CO2
+UnKnown		Reg_Scen: NCAP
+UnKnown		Reg_Scen: OZE
+00:00:01		VEDA To TIMES I...
+00:00:08		Updating SysSettings...
+00:05:19		VEDA To TIMES II...
+
+
+
+
+---------------------------------------------------------------------------------
+Import Task list and their taken time on 27.09.2022 13:02:25
+---------------------------------------------------------------------------------
+
+Total time taken 00:01:51
+
+Exp. Time	Act. Time	Task (19)
+UnKnown	00:00:08	B-Y: Model_DMD
+UnKnown	00:00:07	B-Y: Model_ELC
+UnKnown	00:00:07	B-Y: Model_SUP
+00:00:05	00:00:09	B-Y Transformation...
+UnKnown	00:00:12	SR: NOWE_TECHNOLOGIE
+UnKnown	00:00:07	SR Transformation: NOWE_TECHNOLOGIE
+00:00:06	00:00:01	Transfer Data: [B-Y] + [SR]
+UnKnown	00:00:07	Demand: Dem_Alloc+Series
+UnKnown	00:00:05	Demand: DEM_Ref
+00:00:01	00:00:00	Processing Demands...
+00:00:01	00:00:00	Update Demands...
+UnKnown	00:00:06	Reg_Scen: AF_SLONCE
+UnKnown	00:00:08	Reg_Scen: CENY_PALIW
+UnKnown	00:00:06	Reg_Scen: CO2
+UnKnown	00:00:06	Reg_Scen: NCAP
+UnKnown	00:00:07	Reg_Scen: OZE
+00:00:01	00:00:00	VEDA To TIMES I...
+00:00:08	00:00:11	Updating SysSettings...
+00:05:19	00:00:04	VEDA To TIMES II...
+
+
+
+
